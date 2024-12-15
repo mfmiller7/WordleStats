@@ -1,4 +1,4 @@
 # IMessage Wordle Scraper
-My family plays Wordle everyday, so I did this project to be able to present it to them at Thanksgiving. The presentation is attatched below...
+My family plays Wordle everyday, so I did this project to be able to present it to them at Thanksgiving. 
 
-[wordle.pdf](https://github.com/user-attachments/files/18141591/wordle.pdf)
+The code is in the python notebook file and the presentation from this thanksgiving is the pdf.
